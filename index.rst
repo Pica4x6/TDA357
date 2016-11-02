@@ -22,35 +22,11 @@ University of Gothenburg course code:
 
 News
 ~~~~
-.. 2016-04-11
-  The exam review will be on *Wednesday 13 April* at 10-12 in Aarne’s office
-  (EDIT Building, room 6106).
-.. 2016-03-01
-  The exercises for this week are now available on the
-  :doc:`tutorials <tutorials/index>` page.
-.. 2016-02-24
-  Solutions for the fourth tutorial are now available
-  :ref:`here <solution-tutorial4>`.
-.. 2016-02-22
-  Solutions for tutorials 1 and 2 are now available.
-.. 2016-02-20
-  The solution to this week's exercises is now available
-  :ref:`here <solution-tutorial3>`.
-.. 2016-02-16
-  The :doc:`exercises for this week <tutorials/3-queries/index>` have been changed.
-.. 2016-02-15
-  :doc:`Exercises for this week <tutorials/3-queries/index>` are now available.
-.. 2016-02-03
-  Exercises for the second tutorial are now available, see
-  :doc:`tutorials/index`.
 
-.. 2016-01-20
-  The web page should now be up to date for this year's course.
-  If you find any obsolete information please let us know!
-  Some information of course remains to be completed.
-  In particular, the lecture notes and the weekly exercises.
+2016-11-01
+  Archived old slides, published slides of Lecture 1, updated git repo URL
 
-2015-12-16
+2016-10-20
   First version of Autumn Term 2016 web page. **Based on copying last
   year's course page, therefore not yet reliable.**
 

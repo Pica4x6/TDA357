@@ -172,8 +172,7 @@ html_show_sourcelink = True
 # pages. Single values can also be put in this dictionary using the -A
 # command-line option of sphinx-build.
 html_context = {
-    'source_url_prefix' : "https://gitlab.com/gdetrez/dbcourse/blob/master/",
-    'source_suffix' : '.rst',
+    'source_url' : "https://github.com/Pica4x6/TDA357",
 }
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
