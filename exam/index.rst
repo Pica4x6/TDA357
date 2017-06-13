@@ -16,6 +16,8 @@ HT2016 Exam Papers
 
 - :download:`Exam (10 Januari 2017) <HT2016.pdf>`,
   :download:`Solutions <HT2016_soln.pdf>`
+- :download:`Re-Exam (7 June 2017) <HT2016-reexam.pdf>`,
+  :download:`Solutions <HT2016-reexam-soln.pdf>`
 
 VT2016 Exam Papers
 ------------------

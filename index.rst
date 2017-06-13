@@ -23,6 +23,9 @@ University of Gothenburg course code:
 News
 ~~~~
 
+2017-06-13
+  Added HT2016-reexam questions and solutions.
+
 2017-01-31
   Added deadline to `HT2016 Exam review information <exam/review.html>`_
 
